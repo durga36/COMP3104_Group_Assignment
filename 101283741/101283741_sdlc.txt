@@ -1,2 +1,0 @@
-DevOps is all about the making the process unique and automatic, and DevOps engineers are there for combining code, application management and maintenance.
-All of these tasks depends on understanding not only software development life cycles(sdlc) , but DevOps culture, practices, and tools.
