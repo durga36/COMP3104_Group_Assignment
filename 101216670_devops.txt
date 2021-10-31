@@ -1,0 +1,3 @@
+Devops course code is comp 3104
+And is offered by GBC
+you learn everything from BASH Commands 
