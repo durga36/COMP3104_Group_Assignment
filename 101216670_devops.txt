@@ -1,0 +1,14 @@
+Devops course code is comp 3104
+And is offered by GBC
+you learn everything from BASH Commands 
+DevOps roles & responsibilities
+Tools & techniques in the 
+DevOps sphere
+DevOps culture and lifecycle
+Core DevOps principles
+The anatomy of a Single Page 
+App
+Lightning fast deploys with 
+SPAs
+Hosting SPAs
+DevOps is also offered in semester 5
