@@ -8,6 +8,7 @@ DevOps culture and lifecycle
 Core DevOps principles
 The anatomy of a Single Page 
 App
-- Lightning fast deploys with 
+Lightning fast deploys with 
 SPAs
-- Hosting SPAs
+Hosting SPAs
+DevOps is also offered in semester 5
