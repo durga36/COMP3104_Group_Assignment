@@ -1,3 +1,4 @@
 The DevOps course introduces students to GitHub and helps them get comfortable with git bash and other bash command line.
 Students get exposed to github, travis-ci, docker, kubernetes, and sonarqube.
 Looked at pipline in class.
+The professor takes his time with explaining concepts and theory whilst answering students questions. He also gives us daily quizes and class exercises so that we have a better understanding and have a firm grip on the practical portion.
