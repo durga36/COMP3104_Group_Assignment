@@ -1,2 +1,0 @@
-DevOps important because it's a software development and operations approach that allows faster development of new products and easier maintenance of existing deployments.
-DevOps describes a culture and set of processes that bring development and operation teams together to complete software development.
