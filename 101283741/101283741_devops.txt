@@ -1,0 +1,5 @@
+COMP3104 - Devops is one of the courses offered by GBC in T127 program.
+Professor Pritesh Patel is the teacher for this course.
+In this course, we learn about DevOps roles, tools, cloud infrastructure etc.
+In this course we are evaluated by quizzes, tests and assignments.
+It's a 15 weeks course.
